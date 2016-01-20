@@ -1,6 +1,7 @@
 # SpannableString
 TextView通常通过SpannableString来修改TextView某一部分文字的字体颜色，大小，点击事件等等。
 
+![image](http://img.blog.csdn.net/20160120153557794?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 ```java
 package com.gavin.demospanablestring;
 
